@@ -1,2 +1,3 @@
 # hello-world
-repository for BUS 392
+
+Hi! I am very hungry, I'm always hungry. I need caffine too. 
